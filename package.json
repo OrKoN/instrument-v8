@@ -1,0 +1,25 @@
+{
+  "name": "instrument-v8",
+  "version": "0.1.0",
+  "description": "Instrument your code to see if everything is optimized",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrKoN/instrument-v8.git"
+  },
+  "keywords": [
+    "v8",
+    "instrument",
+    "performance",
+    "compiler"
+  ],
+  "author": "Oleksii Rudenko <alexei.rudenko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OrKoN/instrument-v8/issues"
+  },
+  "homepage": "https://github.com/OrKoN/instrument-v8#readme"
+}
